@@ -9,3 +9,10 @@ if Rails.env.production?
     config.fog_directory     =  ENV['fotosforsampleapp']
   end
 end
+
+# AKIAJTNTL34RKBMG4HXQ
+# As3/Znc3AhzTjqQQKWgspJN67/Rh58lyhZwYte5e
+
+# heroku config:set S3_ACCESS_KEY=AKIAJTNTL34RKBMG4HXQ
+# $ heroku config:set S3_SECRET_KEY=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
+# $ heroku config:set S3_BUCKET=fotosforsampleapp
